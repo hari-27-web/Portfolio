@@ -26,7 +26,6 @@ This portfolio is designed to be a simple and effective way to display your work
 └── Pic.jpg # Profile or portfolio image ```
 
 
----
 
 ## 🛠️ Technologies Used
 ```
@@ -58,13 +57,39 @@ You can host this project on **GitHub Pages**:
 4. Save and visit the provided URL
 ```
 
-Once published, your portfolio will be available online.
-
----
 
 ## 📌 How to Use
 
 1. Clone the repository:
 
-
+```
    git clone https://github.com/hari-27-web/Portfolio.git
+   ```
+
+## 🤝 Contributing
+```
+If you’d like to contribute or improve this portfolio (such as adding more sections like Projects, Skills, Blog, Contact form, etc.):
+
+Fork the repository
+
+Make changes
+
+Submit a pull request ```
+
+## 📫 Contact
+```
+If you want to connect or hire:
+
+🔗 GitHub: https://github.com/hari-27-web
+
+📧 harieediguttu@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/hari-eediguttu-437869292/
+```
+
+📜 License
+```
+This project is open source and free to use.
+```
+
+⭐ Thanks for checking out this portfolio! Continue growing your online presence with consistent updates and more projects!
